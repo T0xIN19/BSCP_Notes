@@ -1,0 +1,8 @@
+ Don't forget to use resources such as https://book.hacktricks.xyz/ and https://swisskyrepo.github.io/PayloadsAllTheThings/ to search for additional payloads!
+- Be familiar with sqlmap; this tool is a must when exploiting SQLi and will save you a lot of time during the exam.
+- Take the practice exam (obviously).
+- And last but definitely not least, possibly one of the best resources to prepare for the exam is reading https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study. I would not skip this tip.
+
+In addition to all of this, I feel that PortSwigger could have done better with the HTTP Request Smuggling topic. The following playlist really helped me understand the topic better: https://www.youtube.com/playlist?list=PLGb2cDlBWRUX1_7RAIjRkZDYgAB3VbUSw.
+
+Hope this helps you and anyone else that reads this! Feel free to send me a message if you need anything else.
